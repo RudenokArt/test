@@ -1,6 +1,8 @@
 .header {
 	border: 1px solid red;
 	margin: 10%;
+	padding: 10px;
+	background: yellow;
 }
 body {
 	background: rgba(0, 0, 0, 0.2);
